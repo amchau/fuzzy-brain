@@ -3,7 +3,16 @@ entries:
   app1:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-02-13T20:11:28.505020111Z"
+    created: "2020-02-14T09:43:31.460108581Z"
+    description: A Helm chart for Kubernetes
+    digest: d4bd3a2e72bcc5bb79d59b5497e00417fe89e2b37193f0376040c8d7a496962e
+    name: app1
+    urls:
+    - https://github.com/amchau/fuzzy-brain/releases/download/app1-0.1.1/app1-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-02-14T09:43:31.791331712Z"
     description: A Helm chart for Kubernetes
     digest: c71ab36133fc6df0105697237d11d27e2429bfa7de3cef7658d04d6c6850b998
     name: app1
@@ -13,11 +22,11 @@ entries:
   app2:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-02-13T20:11:28.761253925Z"
+    created: "2020-02-14T09:43:31.64711361Z"
     description: A Helm chart for Kubernetes
     digest: 305328816e9c4b17b45dcddee4b3da93b196c448359b0244c7e3e002276c39f6
     name: app2
     urls:
     - https://github.com/amchau/fuzzy-brain/releases/download/app2-0.1.0/app2-0.1.0.tgz
     version: 0.1.0
-generated: "2020-02-13T20:11:27.722755923Z"
+generated: "2020-02-14T09:43:31.000084498Z"
